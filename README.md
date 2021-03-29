@@ -11,4 +11,4 @@
 Библиотеки использованные в проекте:
 - NumPy, Tensorflow 2 keras, Shutil, PIL, pytelegrambotapi
 
-Ссылка на бота: [t.me/AiDesignerBot](t.me/AiDesignerBot)
+Ссылка на бота: [AiDesignerBot](https://t.me/AiDesignerBot)
